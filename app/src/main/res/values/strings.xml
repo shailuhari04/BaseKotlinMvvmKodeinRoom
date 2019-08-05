@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BaseKotlinMvvmKodeinRoom</string>
+    <string name="sign_in_as_guest">Sign in as guest</string>
+    <string name="terms_of_service_and_privacy_policy">By creating an account,
+        you agree to our Terms of Service and Privacy Policy
+    </string>
+    <string name="new_to_user_sign_up">New to User? Sign up</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="welcome_to_you">Welcome to You</string>
 </resources>

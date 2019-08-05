@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876481184129",
+    "firebase_url": "https://basekotlinmvvmkodeinroom.firebaseio.com",
+    "project_id": "basekotlinmvvmkodeinroom",
+    "storage_bucket": "basekotlinmvvmkodeinroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876481184129:android:123f5f04cb9f07d0",
+        "android_client_info": {
+          "package_name": "com.basekotlinmvvmkodeinroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876481184129-i307o4f50i5csu41i5jspjamfvs0qed3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basekotlinmvvmkodeinroom",
+            "certificate_hash": "7db6db80d02ed8c98441f4b3bcf177ce76adcbf8"
+          }
+        },
+        {
+          "client_id": "876481184129-ca672rebg4pc48nnlgf7toh9818gooo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBvOgBZ4YNavyf3IGzkTMSG6cvPyYAhUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876481184129-ca672rebg4pc48nnlgf7toh9818gooo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
