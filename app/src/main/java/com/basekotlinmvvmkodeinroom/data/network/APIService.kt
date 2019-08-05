@@ -19,14 +19,6 @@ import retrofit2.http.POST
  */
 interface APIService {
 
-    @FormUrlEncoded
-    @POST("users/get_user_account")
-    fun getUserAccount(
-        @Field("uid") uid:String? = null,
-        @Field("method") method:String? = null
-    ): Deferred<User>
-
-
     @POST("api/v1/device/register")
     fun sendDeviceDetails(@Body objects: JsonObject): Deferred<DeviceRegistrationResponse>
 
